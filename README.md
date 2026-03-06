@@ -1,5 +1,4 @@
-# Rlearner
-Python implementation of R learner
+# Python based R Learner
 
 ## Installation
 
