@@ -133,7 +133,7 @@ In step 2, the stacking weights are constrained to be nonnegative, but they are 
 
 ## Step 3: Validation and Diagnostics
 
-The third step validates the fitted treatment-effect model using the out-of-fold nuisance estimates and the fitted CATE predictions. The validation routines implemented here follow the discussions in [Chernozhukov et al. (2024)](ref-chernozhukov-et-al-2024).
+The third step validates the fitted treatment-effect model using the out-of-fold nuisance estimates and the fitted CATE predictions. The validation routines implemented here follow the discussions in [Chernozhukov et al. (2024)](#ref-chernozhukov-et-al-2024).
 
 All validation routines are available in two ways:
 
